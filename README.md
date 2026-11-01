@@ -68,3 +68,4 @@ Use **Pause** to block Claude Code at any time, including `ae_run_script`. Use *
 ## Release notes
 
 Each release lists the changes since the previous one. New versions are published automatically.
+# ae-mcp-releases
